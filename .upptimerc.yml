@@ -42,8 +42,8 @@ status-website:
   baseUrl: /TrinusTech
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TrinusTech
-  introTitle: ab
-  introMessage: bc
+  introTitle: Serviços do Banco Trinus
+  introMessage: Monitoramento de respostas da API do Banco Trinus.
   navbar:
     - title: Status
       href: /
