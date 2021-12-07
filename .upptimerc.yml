@@ -1,26 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: adrianocortes # Your GitHub organization or username, where this repository lives
+repo: TrinusTech # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: ProdAPIAuthsService
+    url: https://prodapiauthservice.azurewebsites.net/swagger/index.html
+  - name: ProdAPIBilletService
+    url: https://prodapibilletservice.azurewebsites.net/swagger/index.html
+  - name: ProdAPIFavorecidos
+    url: https://prodapifavorecidos.azurewebsites.net/swagger/index.html
+  - name: ProdAPIMypropertiesService
+    url: https://prodapimypropertiesservice.azurewebsites.net/swagger/index.html
+  - name: ProdAPIOnboardingService
+    url: https://prodapionboardingservice.azurewebsites.net/swagger/index.html
+  - name: prodapitedservice
+    url: https://prodapitedservice.azurewebsites.net/swagger/index.html
+  - name: ProdAPITotalsService
+    url: https://prodapitotalsservice.azurewebsites.net/swagger/index.html
+  - name: ProdAPIUserService
+    url: https://prodapiuserservice.azurewebsites.net/swagger/index.html
+  - name: ProdAPIWebhookService
+    url: https://prodapiwebhookservice.azurewebsites.net/swagger/index.html
+  - name: Trinus.CO
+    url: https://trinus.co
+    __dangerous__insecure: true
+  - name: TrinuStore
+    url: http://trinustore.trinus.co
+  - name: Trinus Investimentos
+    url: http://trinusinvestimentos.com.br
+  - name: Trinus - API Originação
+    url: http://apioriginacao.trinus.co
+  - name: Trinus - API FaqAtendimento
+    url: http://apifaqatendimento.trinus.co
+  - name: Trinus - FaqAtendimento
+    url: http://faqatendimento.trinus.co
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: uptime.trinus.co
+  baseUrl: /TrinusTech
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: TrinusTech
+  introTitle: ab
+  introMessage: bc
   navbar:
     - title: Status
       href: /
