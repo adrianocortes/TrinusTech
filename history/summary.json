@@ -166,19 +166,19 @@
     "url": "https://trinus.co",
     "icon": "https://favicons.githubusercontent.com/trinus.co",
     "slug": "trinus-co",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 656,
-    "timeDay": 620,
-    "timeWeek": 656,
-    "timeMonth": 656,
-    "timeYear": 656,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 655,
+    "timeDay": 634,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2021-12-09": 0
+      "2021-12-09": 16
     }
   },
   {
@@ -222,19 +222,19 @@
     "url": "http://apioriginacao.trinus.co",
     "icon": "https://favicons.githubusercontent.com/apioriginacao.trinus.co",
     "slug": "trinus-api-originacao",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 389,
-    "timeDay": 372,
-    "timeWeek": 389,
-    "timeMonth": 389,
-    "timeYear": 389,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 391,
+    "timeDay": 388,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2021-12-09": 0
+      "2021-12-09": 16
     }
   },
   {
@@ -242,19 +242,19 @@
     "url": "http://apifaqatendimento.trinus.co",
     "icon": "https://favicons.githubusercontent.com/apifaqatendimento.trinus.co",
     "slug": "trinus-api-faq-atendimento",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 387,
-    "timeDay": 398,
-    "timeWeek": 387,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 384,
+    "timeDay": 384,
+    "timeWeek": 384,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2021-12-09": 0
+      "2021-12-09": 16
     }
   },
   {
@@ -263,18 +263,18 @@
     "icon": "https://favicons.githubusercontent.com/faqatendimento.trinus.co",
     "slug": "trinus-faq-atendimento",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
+    "uptime": "98.67%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
     "time": 376,
     "timeDay": 381,
     "timeWeek": 376,
     "timeMonth": 376,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2021-12-09": 15
+      "2021-12-09": 31
     }
   }
 ]
