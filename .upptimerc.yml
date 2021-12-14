@@ -23,15 +23,14 @@ sites:
     url: https://prodapiwebhookservice.azurewebsites.net/swagger/index.html
   - name: Trinus.CO
     url: https://trinus.co
-    __dangerous__insecure: true
   - name: TrinuStore
     url: http://trinustore.trinus.co
   - name: Trinus Investimentos
     url: http://trinusinvestimentos.com.br
   - name: Trinus - API Originação
-    url: http://apioriginacao.trinus.co
+    url: http://apioriginacao.trinus.co/swagger/index.html
   - name: Trinus - API FaqAtendimento
-    url: http://apifaqatendimento.trinus.co
+    url: http://apifaqatendimento.trinus.co/swagger/index.html
   - name: Trinus - FaqAtendimento
     url: http://faqatendimento.trinus.co
     
