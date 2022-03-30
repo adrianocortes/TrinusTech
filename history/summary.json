@@ -149,18 +149,18 @@
     "icon": "https://favicons.githubusercontent.com/prodapiwebhookservice.azurewebsites.net",
     "slug": "prod-api-webhook-service",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "79.54%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.81%",
+    "uptimeDay": "78.06%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.81%",
     "time": 694,
     "timeDay": 702,
     "timeWeek": 681,
     "timeMonth": 700,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2022-03-30": 294
+      "2022-03-30": 316
     }
   },
   {
@@ -180,7 +180,7 @@
     "timeMonth": 663,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2022-03-30": 431,
+      "2022-03-30": 452,
       "2022-03-29": 1440,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
@@ -266,14 +266,14 @@
     "url": "http://trinustore.trinus.co",
     "icon": "https://favicons.githubusercontent.com/trinustore.trinus.co",
     "slug": "trinu-store",
-    "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "84.96%",
+    "status": "down",
+    "uptime": "98.26%",
+    "uptimeDay": "86.38%",
     "uptimeWeek": "86.72%",
-    "uptimeMonth": "93.53%",
-    "uptimeYear": "98.25%",
+    "uptimeMonth": "93.56%",
+    "uptimeYear": "98.26%",
     "time": 1912,
-    "timeDay": 1753,
+    "timeDay": 1745,
     "timeWeek": 1771,
     "timeMonth": 1746,
     "timeYear": 1912,
@@ -293,7 +293,7 @@
       "2022-03-18": 162,
       "2022-03-17": 51,
       "2022-03-11": 37,
-      "2022-03-10": 180
+      "2022-03-10": 164
     }
   },
   {
@@ -302,18 +302,18 @@
     "icon": "https://favicons.githubusercontent.com/trinusinvestimentos.com.br",
     "slug": "trinus-investimentos",
     "status": "down",
-    "uptime": "59.78%",
+    "uptime": "59.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.78%",
+    "uptimeYear": "59.77%",
     "time": 3053,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3053,
     "dailyMinutesDown": {
-      "2022-03-30": 431,
+      "2022-03-30": 452,
       "2022-03-29": 1440,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
@@ -382,7 +382,7 @@
     "timeMonth": 370,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2022-03-30": 431,
+      "2022-03-30": 452,
       "2022-03-29": 1440,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
@@ -509,7 +509,7 @@
     "timeMonth": 368,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2022-03-30": 431,
+      "2022-03-30": 452,
       "2022-03-29": 1440,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
