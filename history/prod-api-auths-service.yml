@@ -1,7 +1,7 @@
 url: https://prodapiauthservice.azurewebsites.net/swagger/index.html
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 725
-lastUpdated: 2022-03-30T23:02:40.973Z
+lastUpdated: 2022-03-31T11:29:22.507Z
 startTime: Tue Dec 07 2021 11:49:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
