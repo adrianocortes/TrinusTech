@@ -181,7 +181,7 @@
     "timeMonth": 666,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2022-04-06": 770,
+      "2022-04-06": 787,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
@@ -274,14 +274,14 @@
     "url": "http://trinustore.trinus.co",
     "icon": "https://favicons.githubusercontent.com/trinustore.trinus.co",
     "slug": "trinu-store",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "75.60%",
-    "uptimeWeek": "84.95%",
-    "uptimeMonth": "93.56%",
-    "uptimeYear": "98.37%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "75.58%",
+    "uptimeWeek": "85.11%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "98.49%",
     "time": 1894,
-    "timeDay": 1877,
+    "timeDay": 1876,
     "timeWeek": 1843,
     "timeMonth": 1775,
     "timeYear": 1894,
@@ -299,7 +299,7 @@
       "2022-03-27": 199,
       "2022-03-26": 195,
       "2022-03-25": 109,
-      "2022-03-24": 299
+      "2022-03-24": 87
     }
   },
   {
@@ -319,7 +319,7 @@
     "timeMonth": 0,
     "timeYear": 3053,
     "dailyMinutesDown": {
-      "2022-04-06": 771,
+      "2022-04-06": 787,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
@@ -395,7 +395,7 @@
     "timeMonth": 455,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-04-06": 771,
+      "2022-04-06": 787,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
@@ -529,7 +529,7 @@
     "timeMonth": 367,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2022-04-06": 771,
+      "2022-04-06": 787,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
