@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/prodapiauthservice.azurewebsites.net",
     "slug": "prod-api-auths-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 726,
     "timeDay": 760,
     "timeWeek": 725,
     "timeMonth": 723,
     "timeYear": 726,
-    "dailyMinutesDown": {
-      "2022-04-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ProdAPIBilletService",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/prodapibilletservice.azurewebsites.net",
     "slug": "prod-api-billet-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 711,
     "timeDay": 711,
     "timeWeek": 703,
     "timeMonth": 696,
     "timeYear": 711,
-    "dailyMinutesDown": {
-      "2022-04-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ProdAPIFavorecidos",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/prodapifavorecidos.azurewebsites.net",
     "slug": "prod-api-favorecidos",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 695,
     "timeDay": 697,
     "timeWeek": 691,
     "timeMonth": 693,
     "timeYear": 695,
-    "dailyMinutesDown": {
-      "2022-04-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ProdAPIMypropertiesService",
@@ -65,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/prodapimypropertiesservice.azurewebsites.net",
     "slug": "prod-api-myproperties-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 694,
     "timeDay": 714,
     "timeWeek": 697,
     "timeMonth": 686,
     "timeYear": 694,
-    "dailyMinutesDown": {
-      "2022-04-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ProdAPIOnboardingService",
@@ -85,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/prodapionboardingservice.azurewebsites.net",
     "slug": "prod-api-onboarding-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 683,
     "timeDay": 702,
     "timeWeek": 687,
     "timeMonth": 681,
     "timeYear": 683,
-    "dailyMinutesDown": {
-      "2022-04-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "prodapitedservice",
@@ -105,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/prodapitedservice.azurewebsites.net",
     "slug": "prodapitedservice",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 686,
     "timeDay": 694,
     "timeWeek": 688,
     "timeMonth": 682,
     "timeYear": 686,
-    "dailyMinutesDown": {
-      "2022-04-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ProdAPITotalsService",
@@ -125,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/prodapitotalsservice.azurewebsites.net",
     "slug": "prod-api-totals-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 684,
     "timeDay": 706,
     "timeWeek": 695,
     "timeMonth": 682,
     "timeYear": 684,
-    "dailyMinutesDown": {
-      "2022-04-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ProdAPIUserService",
@@ -145,19 +131,17 @@
     "icon": "https://favicons.githubusercontent.com/prodapiuserservice.azurewebsites.net",
     "slug": "prod-api-user-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 679,
     "timeDay": 701,
     "timeWeek": 692,
     "timeMonth": 677,
     "timeYear": 679,
-    "dailyMinutesDown": {
-      "2022-04-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ProdAPIWebhookService",
@@ -166,9 +150,9 @@
     "slug": "prod-api-webhook-service",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.59%",
     "time": 694,
     "timeDay": 702,
@@ -176,7 +160,6 @@
     "timeMonth": 707,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2022-04-08": 10,
       "2022-03-31": 167,
       "2022-03-30": 549
     }
@@ -198,7 +181,7 @@
     "timeMonth": 667,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2022-04-08": 868,
+      "2022-04-08": 891,
       "2022-04-07": 1440,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
@@ -293,15 +276,15 @@
     "url": "http://trinustore.trinus.co",
     "icon": "https://favicons.githubusercontent.com/trinustore.trinus.co",
     "slug": "trinu-store",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "83.75%",
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "83.73%",
     "uptimeWeek": "84.06%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "98.43%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "98.44%",
     "time": 1889,
     "timeDay": 1815,
-    "timeWeek": 1857,
+    "timeWeek": 1858,
     "timeMonth": 1784,
     "timeYear": 1889,
     "dailyMinutesDown": {
@@ -318,7 +301,7 @@
       "2022-03-29": 250,
       "2022-03-28": 177,
       "2022-03-27": 199,
-      "2022-03-26": 70
+      "2022-03-26": 51
     }
   },
   {
@@ -338,7 +321,7 @@
     "timeMonth": 0,
     "timeYear": 3053,
     "dailyMinutesDown": {
-      "2022-04-08": 868,
+      "2022-04-08": 891,
       "2022-04-07": 1440,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
@@ -416,7 +399,7 @@
     "timeMonth": 496,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2022-04-08": 868,
+      "2022-04-08": 891,
       "2022-04-07": 1440,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
@@ -552,7 +535,7 @@
     "timeMonth": 365,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2022-04-08": 868,
+      "2022-04-08": 891,
       "2022-04-07": 1440,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
